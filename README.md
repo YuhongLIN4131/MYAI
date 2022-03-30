@@ -8,4 +8,4 @@ between words within entities.
 
 
 
-![image](https://github.com/YuhongLIN4131/MYAI/structural.png)
+![image](https://github.com/YuhongLIN4131/MYAI/blob/master/structural.png)
